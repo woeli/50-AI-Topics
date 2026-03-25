@@ -33,7 +33,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 
 ## Notebook Structure
 
-Every notebook follows the same 6-section methodology:
+Every notebook follows the same 5-section methodology:
 
 | # | Section | Purpose |
 |---|---------|---------|
@@ -42,7 +42,7 @@ Every notebook follows the same 6-section methodology:
 | 2 | **How It Works** | Step-by-step breakdown with diagrams |
 | 3 | **Advantages & Limitations** | Balanced evaluation table |
 | 4 | **Code Example** | Minimal, runnable demo + production-ready version |
-| 5 | **Key Takeaways** | 5 bullet-point summary |
+| 5 | **Key Takeaways** | Bullet-point summary |
 
 
 ---
