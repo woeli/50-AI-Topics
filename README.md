@@ -16,6 +16,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── ICR_RAG.ipynb
 ├── architecture/        ← Architecture & Internal Working Logics of LLMs
 │   └── KV_Cache.ipynb
+│   └── Lottery_Ticket_Hypothesis.ipynb
 ├── agenitc/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
 ├── assets/              ← Shared images & diagrams
@@ -34,6 +35,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 | RAG | [ICR-RAG](./rag/ICR_RAG.ipynb) | Iterative retrieval, Context enrichment, Query reformulation, Lost-in-the-Middle problem |
 | Architecture | [KV Cache](./architecture/KV_Cache.ipynb) | Attention mechanism, QKV, Memory efficiency, Inference optimization |
 | Agentic System | [Dynamic Vertical Agent Creation](./agentic/dynamic_vertical_agent_creation.ipynb) | Agent architecture, Dynamic agent creation, Task decomposition, Agent orchestration |
+| Lottery Ticket Hypothesis | [Lottery Ticket Hypothesis](./architecture/Lottery_Ticket_Hypothesis.ipynb) | Lottery Ticket Hypothesis, Pruning, Rewinding, Subnetworks |
 
 ---
 
