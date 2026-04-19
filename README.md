@@ -19,23 +19,11 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── Lottery_Ticket_Hypothesis.ipynb
 ├── agenitc/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
+│   └── VAKRA.ipynb
 ├── assets/              ← Shared images & diagrams
 ├── TEMPLATE.ipynb       ← Reusable notebook template
 └── README.md
 ```
-
-
----
-
-## Notebook Index
-
-| Topic Area | Notebook | Key Concepts |
-|---|---|---|
-| Guardrails | [Jailbreaking](./guardrails/Jailbreaking.ipynb) | Direct manipulation, Conversational manipulation, GCG, PAIR, Activation Steering |
-| RAG | [ICR-RAG](./rag/ICR_RAG.ipynb) | Iterative retrieval, Context enrichment, Query reformulation, Lost-in-the-Middle problem |
-| Architecture | [KV Cache](./architecture/KV_Cache.ipynb) | Attention mechanism, QKV, Memory efficiency, Inference optimization |
-| Agentic System | [Dynamic Vertical Agent Creation](./agentic/dynamic_vertical_agent_creation.ipynb) | Agent architecture, Dynamic agent creation, Task decomposition, Agent orchestration |
-| Lottery Ticket Hypothesis | [Lottery Ticket Hypothesis](./architecture/Lottery_Ticket_Hypothesis.ipynb) | Lottery Ticket Hypothesis, Pruning, Rewinding, Subnetworks |
 
 ---
 
