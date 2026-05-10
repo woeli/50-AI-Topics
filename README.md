@@ -17,6 +17,8 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── CAG.ipynb
 │   └── Knowledge_Graph.ipynb
 ├── architecture/        ← Architecture & Internal Working Logics of LLMs
+│   └── mdoels/
+│          └── GPT.ipynb
 │   └── KV_Cache.ipynb
 │   └── Lottery_Ticket_Hypothesis.ipynb
 ├── agenitc/        ← Agentic System
