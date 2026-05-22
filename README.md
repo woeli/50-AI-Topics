@@ -17,7 +17,8 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── CAG.ipynb
 │   └── Knowledge_Graph.ipynb
 ├── architecture/        ← Architecture & Internal Working Logics of LLMs
-│   └── mdoels/
+│   └── models/
+│          └── BART.ipynb
 │          └── GPT.ipynb
 │          └── BERT.ipynb
 │   └── KV_Cache.ipynb
