@@ -12,6 +12,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 50-AI-Topics/
 ├── guardrails/          ← Safety, alignment & adversarial attacks
 │   └── Jailbreaking.ipynb
+│   └── Masking.ipynb
 ├── rag/                 ← Retrieval-Augmented Generation
 │   └── ICR_RAG.ipynb
 │   └── CAG.ipynb
