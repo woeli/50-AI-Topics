@@ -25,6 +25,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── KV_Cache.ipynb
 │   └── Lottery_Ticket_Hypothesis.ipynb
 │   └── Prompt_Caching.ipynb
+│   └── Hosting_Types.ipynb
 ├── agenitc/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
 │   └── VAKRA.ipynb
