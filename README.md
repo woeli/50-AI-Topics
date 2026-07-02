@@ -28,6 +28,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── Prompt_Caching.ipynb
 │   └── Hosting_Types.ipynb
 │   └── World_Model.ipynb
+│   └── JEPA.ipynb
 ├── agenitc/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
 │   └── VAKRA.ipynb
