@@ -32,6 +32,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 ├── agenitc/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
 │   └── VAKRA.ipynb
+│   └── ReAct.ipynb
 ├── assets/              ← Shared images & diagrams
 ├── TEMPLATE.ipynb       ← Reusable notebook template
 └── README.md
