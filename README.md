@@ -35,6 +35,8 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── dynamic_vertical_agent_creation.ipynb
 │   └── VAKRA.ipynb
 │   └── ReAct.ipynb
+├── testing/        ← AI testing
+│   └── AI_Benchmarks.ipynb
 ├── assets/              ← Shared images & diagrams
 ├── TEMPLATE.ipynb       ← Reusable notebook template
 └── README.md
