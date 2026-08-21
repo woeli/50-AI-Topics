@@ -38,6 +38,8 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── ReAct.ipynb
 ├── testing/        ← AI testing
 │   └── AI_Benchmarks.ipynb
+├── varia/        ← varia
+│   └── Jinj2_for_prompting.ipynb
 ├── assets/              ← Shared images & diagrams
 ├── TEMPLATE.ipynb       ← Reusable notebook template
 └── README.md
