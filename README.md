@@ -36,6 +36,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── Deep_Search.ipynb
 │   └── VAKRA.ipynb
 │   └── ReAct.ipynb
+│   └── MCP.ipynb
 ├── testing/        ← AI testing
 │   └── AI_Benchmarks.ipynb
 ├── varia/        ← varia
