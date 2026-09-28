@@ -33,6 +33,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── Quantization.ipynb
 │   └── JEPA.ipynb
 │   └── Belief_State_Engine.ipynb
+│   └── LoT.ipynb
 ├── agentic/        ← Agentic System
 │   └── dynamic_vertical_agent_creation.ipynb
 │   └── Deep_Search.ipynb
