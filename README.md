@@ -26,6 +26,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │          └── GPT.ipynb
 │          └── BERT.ipynb
 │   └── KV_Cache.ipynb
+│   └── JEV.ipynb
 │   └── Lottery_Ticket_Hypothesis.ipynb
 │   └── Prompt_Caching.ipynb
 │   └── Hosting_Types.ipynb
