@@ -44,6 +44,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── MCP.ipynb
 ├── testing/        ← AI testing
 │   └── AI_Benchmarks.ipynb
+│   └── Vera.ipynb
 ├── varia/        ← varia
 │   └── Jinj2_for_prompting.ipynb
 ├── assets/              ← Shared images & diagrams
