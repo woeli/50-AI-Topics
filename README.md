@@ -47,6 +47,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── Vera.ipynb
 ├── varia/        ← varia
 │   └── Jinj2_for_prompting.ipynb
+│   └── Hybrid_AI_Patterns.ipynb
 ├── assets/              ← Shared images & diagrams
 ├── TEMPLATE.ipynb       ← Reusable notebook template
 └── README.md
