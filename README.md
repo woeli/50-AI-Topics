@@ -42,6 +42,7 @@ Notebooks are organised by **AI topic**, making it easy to navigate by area of i
 │   └── VAKRA.ipynb
 │   └── ReAct.ipynb
 │   └── MCP.ipynb
+│   └── Agent_Skills.ipynb
 ├── testing/        ← AI testing
 │   └── AI_Benchmarks.ipynb
 │   └── Vera.ipynb
